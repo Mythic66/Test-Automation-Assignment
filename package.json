@@ -1,0 +1,25 @@
+{
+  "name": "test-automation-assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mythic66/Test-Automation-Assignment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mythic66/Test-Automation-Assignment/issues"
+  },
+  "homepage": "https://github.com/Mythic66/Test-Automation-Assignment#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.48.0",
+    "@types/node": "^22.7.5"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  }
+}
